@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Map>
+  <Room Id="1" Name="Hallway" North="2" />
+  <Room Id="2" Name="Dining Room" South="1" West="3" East="4"/>
+  <Room Id="3" Name="Kitchen" East="2">
+    <Object Name="Knife"/>
+  </Room>
+  <Room Id="4" Name="Sun Room" West="2">
+    <Object Name="Potted Plant"/>
+  </Room>
+</Map>

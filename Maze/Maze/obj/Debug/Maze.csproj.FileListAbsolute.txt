@@ -1,0 +1,7 @@
+C:\george.crawford\proj\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+C:\george.crawford\proj\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\george.crawford\proj\Maze\Maze\bin\Debug\Maze.exe.config
+C:\george.crawford\proj\Maze\Maze\bin\Debug\Maze.exe
+C:\george.crawford\proj\Maze\Maze\bin\Debug\Maze.pdb
+C:\george.crawford\proj\Maze\Maze\obj\Debug\Maze.exe
+C:\george.crawford\proj\Maze\Maze\obj\Debug\Maze.pdb
